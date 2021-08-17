@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b795c60-6ec9-4c10-88ef-0074eac001c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/src/main/java/com/misiontic/patient_ms/PatientMsApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient_ms/src/test/java/com/misiontic/patient_ms/PatientMsApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8b795c60-6ec9-4c10-88ef-0074eac001c3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/misiontic/patient_ms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -108,6 +96,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>

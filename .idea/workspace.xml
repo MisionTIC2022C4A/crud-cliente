@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b795c60-6ec9-4c10-88ef-0074eac001c3" name="Default Changelist" comment="" />
+    <list default="true" id="8b795c60-6ec9-4c10-88ef-0074eac001c3" name="Default Changelist" comment="adds CRD operations for patient entity">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/misiontic/patient_ms/controllers/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/misiontic/patient_ms/controllers/PatientController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,17 +55,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PatientMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="patient_ms" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.misiontic.patient_ms.PatientMsApplication" />
@@ -80,6 +72,13 @@
       <option name="presentableId" value="Default" />
       <updated>1629061379924</updated>
       <workItem from="1629061384950" duration="4207000" />
+      <workItem from="1629329143003" duration="3086000" />
+      <workItem from="1629394390332" duration="608000" />
+      <workItem from="1629402326536" duration="22000" />
+      <workItem from="1629404860290" duration="2637000" />
+      <workItem from="1629467617861" duration="3451000" />
+      <workItem from="1629814919645" duration="1691000" />
+      <workItem from="1629902091565" duration="211000" />
     </task>
     <servers />
   </component>
